@@ -230,6 +230,12 @@ Formação voltada para tecnologia aplicada aos negócios, sistemas e processos.
 
 Foco em gestão de projetos, metodologias ágeis, processos, riscos e melhoria contínua.
 
+### 🎓 PÓS - GRADUAÇÃO — Ciência de Dados
+
+**Descomplica**
+
+Formação com foco em Ciência de Dados e Inteligência Artificial, explorando Python, Pandas, NumPy, Scikit-learn, Matplotlib e Seaborn, além de conceitos de Machine Learning, estatística, análise e visualização de dados. Desenvolvimento de soluções orientadas a dados, desde o tratamento e exploração das informações até a aplicação de modelos e técnicas de IA para identificação de padrões, geração de insights e apoio à tomada de decisão.
+
 ### 📚 Estudos complementares
 
 `Data Science` · `Python` · `SQL` · `Power BI` · `Excel` · `IA` · `Automação` · `Lean Six Sigma` · `Scrum`
