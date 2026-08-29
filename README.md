@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Abraão+Lima+%F0%9F%91%8B;Software+%7C+Data+%7C+AI+%7C+Automation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Abra%C3%A3o+Lima+%F0%9F%91%8B;Software+%7C+Data+%7C+AI+%7C+Automation" alt="Typing SVG">
 
+</div>
 <br>
 
 <img src="https://img.shields.io/badge/Software%20Engineering-1E90FF?style=for-the-badge">
