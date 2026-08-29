@@ -1,61 +1,293 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=%E2%96%B8+Bem-vindo+a+minha+apresentacao!" alt="Typing SVG">
-</div>
 
-<p align="justify">
-Olá! Meu nome é <b>Abraão</b> e trabalho como <b>Analista de Software na Toledo do Brasil</b> desde fevereiro de 2022. Atuo na <b>implantação de sistemas corporativos</b>, análise de requisitos, configuração de soluções e suporte à adoção pelos usuários. Nesse período, também fui responsável por <b>treinamentos de usuários, documentação de processos e suporte técnico</b>, contribuindo para a <b>eficiência operacional</b> e padronização das soluções implementadas.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Abraão+Lima+%F0%9F%91%8B;Software+%7C+Data+%7C+AI+%7C+Automation" alt="Typing SVG">
 
-<p align="justify">
-Ao longo da minha trajetória, desenvolvi sólida experiência em <b>análise de dados</b>, com mais de <b>5 anos de prática em SQL</b> para extração, cruzamento e validação de informações. Utilizo <b>Excel avançado</b> para tratamento, consolidação e construção de indicadores. Além disso, aplico <b>Python</b>, especialmente a biblioteca <b>Pandas</b>, para manipulação de dados, limpeza de bases e geração de insights que apoiam decisões estratégicas.
-</p>
+<br>
 
-<p align="justify">
-Nos últimos 6 meses, mantendo o mesmo cargo, passei a atuar de forma <b>mais estratégica na gestão de projetos</b>, com foco em planejamento, acompanhamento e controle das entregas. Sou o <b>ponto focal entre áreas de negócio, TI e stakeholders</b>, definindo cronogramas, gerenciando backlog, priorizando demandas, monitorando indicadores, mitigando riscos e coordenando equipes multidisciplinares. Utilizo <b>metodologias ágeis</b> como Scrum e Kanban, e ferramentas como <b>Jira</b> para gestão das atividades.
-</p>
-
-<p align="justify">
-Também atuo com <b>análise de dados e indicadores de desempenho (KPIs)</b> para apoiar a tomada de decisão, acompanhar a evolução dos projetos e promover a melhoria contínua. Realizo tratamento, consolidação e análise de informações em Excel, além de criar e acompanhar dashboards e relatórios gerenciais em <b>Power BI</b>. Aplico conceitos de <b>Lean Six Sigma</b> e metodologia <b>DMAIC</b> para identificação de oportunidades, otimização de processos e melhoria de resultados.
-</p>
-
-<p align="justify">
-Sou graduado em <b>Informática para Negócios pela FATEC-SP</b> e atualmente curso <b>MBA em Gestão de Projetos e Metodologias Ágeis na PUC-RS</b>. Meu compromisso profissional é com o <b>aprendizado contínuo</b> e a aplicação de práticas orientadas a <b>dados, projetos e melhoria de processos</b>, sempre buscando <b>gerar valor para o negócio</b> e fortalecer a maturidade organizacional.
-</p>
-
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraão-josé/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abraaolima-cloud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c72c3b?style=for-the-badge&logo=todoist&logoColor=white)](https://abraaoportifolio.framer.website/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](malito:abraaojose.100@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511998824072) 
-
+<img src="https://img.shields.io/badge/Software%20Engineering-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analytics-20B2AA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Automation-FF8C00?style=for-the-badge">
 
 </div>
 
-<h3 align="left">My Stack</h3>
+---
 
-<div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
-  <img width="8" />
-  <!-- SQL Server -->
-  <!-- Link SVG do SVGRepo que funciona no GitHub -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="25" alt="SQL Server logo" />
-  <img width="8" />
-  <!-- Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="25" alt="excel logo" />
-  <img width="8" />
-   <!-- Power BI -->
-  <!-- Link SVG do Allogo via jsDelivr CDN -->
-  <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/microsoft-power-bi/icon.svg" height="25" alt="Power BI logo" />
-  <!-- Jira (Atlassian) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/atlassian.svg" height="25" alt="Atlassian Jira logo" />
+# 👨‍💻 Sobre mim
+
+Sou **Analista de Software Pleno**, com experiência em tecnologia desde 2022 e atuação na **Toledo do Brasil**.
+
+Minha carreira começou com foco em **sistemas corporativos, implantação, requisitos e suporte**, mas evoluiu para uma atuação que combina:
+
+**Software + Dados + Automação + Inteligência Artificial + Projetos.**
+
+Gosto principalmente de pegar um problema que hoje é resolvido manualmente e transformá-lo em uma solução mais **rápida, organizada e automatizada**.
+
+Tenho experiência prática com **SQL Server, Python, Pandas, Excel, Power BI, APIs, Web Services, Streamlit, Git, Jira e metodologias ágeis**.
+
+Atualmente, meu foco de desenvolvimento está cada vez mais direcionado para **Data Analytics, Data Science, Inteligência Artificial e automação de processos**.
+
+---
+
+## 🧠 O que eu faço
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🗄️ DADOS             🐍 PYTHON            🤖 IA           │
+│   SQL Server            Pandas               LLMs            │
+│   SQL                   Automação            Ollama          │
+│   Excel                 APIs                 IA Local        │
+│   Power BI              Web Scraping         Document AI     │
+│                                                             │
+│   💻 SOFTWARE           ⚙️ AUTOMAÇÃO         🚀 PROJETOS     │
+│   Sistemas              Playwright           Scrum           │
+│   REST APIs              Power Platform       Kanban          │
+│   Streamlit             Integrações          Jira            │
+│   React                  Processos            KPIs            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💼 Experiência
+
+### 🏢 Toledo do Brasil
+
+**Analista de Software Pleno**
+`2026 — atualmente`
+
+**Analista de Software**
+`2022 — 2026`
+
+Atuação em projetos de tecnologia envolvendo:
+
+* Implantação e evolução de sistemas corporativos;
+* Análise de requisitos e processos;
+* Integração entre sistemas e ERPs;
+* APIs e Web Services;
+* Treinamento e suporte a usuários;
+* Documentação de soluções;
+* Extração e análise de dados;
+* Indicadores e KPIs;
+* Planejamento e acompanhamento de projetos;
+* Gestão de backlog e priorização;
+* Acompanhamento de entregas e riscos;
+* Comunicação entre negócio, TI e stakeholders.
+
+Nos projetos, utilizo **Scrum, Kanban e Jira** para organização e acompanhamento das atividades.
+
+---
+
+# 📊 Data
+
+Uma das áreas que mais venho desenvolvendo é a utilização de dados para resolver problemas reais.
+
+### SQL
+
+Experiência prática com **SQL Server**, trabalhando com:
+
+`SELECT` · `JOIN` · `CTE` · `Subqueries` · `Aggregations` · `Views` · `Data Validation`
+
+### Python
+
+Uso Python principalmente para:
+
+* Manipulação de dados;
+* Limpeza e transformação;
+* Automação;
+* Web scraping;
+* Integrações;
+* Processamento de documentos;
+* Desenvolvimento de aplicações.
+
+Principais bibliotecas:
+
+`Pandas` · `NumPy` · `OpenCV` · `MediaPipe` · `PyMuPDF` · `pdfplumber` · `BeautifulSoup` · `Playwright`
+
+### Business Intelligence
+
+`Power BI` · `Excel` · `Power Query` · `KPIs` · `Dashboards`
+
+---
+
+# 🤖 Artificial Intelligence
+
+Tenho explorado **IA aplicada a problemas reais**, principalmente utilizando Python e modelos de linguagem.
+
+Atualmente estudo e desenvolvo soluções envolvendo:
+
+* LLMs;
+* IA local;
+* Ollama;
+* Processamento de documentos;
+* Extração de informações;
+* Automação utilizando IA;
+* Integração de modelos com aplicações Python;
+* Engenharia de prompts;
+* Aplicações de IA para processos empresariais.
+
+### 🔥 Projeto em destaque
+
+**Analisador Inteligente de Propostas**
+
+Uma aplicação que utiliza **IA local para analisar documentos comerciais em PDF**, buscando localizar e extrair informações importantes de forma automatizada.
+
+`Python` `Streamlit` `Ollama` `PDF` `LLM`
+
+---
+
+# 🚀 Projetos
+
+| Projeto                                    | Tecnologias                                  | Objetivo                                  |
+| ------------------------------------------ | -------------------------------------------- | ----------------------------------------- |
+| 🤖 **Analisador Inteligente de Propostas** | Python · Ollama · Streamlit · PDF            | Análise automatizada de propostas         |
+| 👁️ **Detector de Fadiga**                 | Python · OpenCV · MediaPipe · Pygame         | Detecção de olhos fechados e alerta       |
+| 📄 **Conversor de Documentos**             | Python · PySide6 · PyMuPDF · pdf2docx        | Conversão e processamento de documentos   |
+| 🌐 **Web Scraping**                        | Python · Playwright · BeautifulSoup · Pandas | Coleta e tratamento automatizado de dados |
+| 🔗 **Integrações**                         | Python · SQL · REST API                      | Comunicação entre sistemas                |
+| 📊 **Data Projects**                       | Python · SQL · Power BI                      | Análise e visualização de dados           |
+
+> 🚧 **Mais projetos estão sendo desenvolvidos e publicados aqui.**
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+### Data
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+### AI & Automation
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,react,vscode" />
+
 </div>
 
+---
 
+# 📋 Project Management
 
-#
+Além do desenvolvimento técnico, atuo com **gestão e acompanhamento de projetos de tecnologia**.
+
+```text
+Planejamento
+     ↓
+Requisitos
+     ↓
+Backlog
+     ↓
+Priorização
+     ↓
+Execução
+     ↓
+KPIs
+     ↓
+Entrega
+     ↓
+Melhoria contínua
+```
+
+### Ferramentas & metodologias
+
+`Scrum` · `Kanban` · `Jira` · `Lean Six Sigma` · `DMAIC` · `KPIs`
+
+---
+
+# 🎓 Formação
+
+### 🎓 Informática para Negócios
+
+**FATEC**
+
+Formação voltada para tecnologia aplicada aos negócios, sistemas e processos.
+
+### 🎓 MBA — Gestão de Projetos e Metodologias Ágeis
+
+**PUC-RS**
+
+Foco em gestão de projetos, metodologias ágeis, processos, riscos e melhoria contínua.
+
+### 📚 Estudos complementares
+
+`Data Science` · `Python` · `SQL` · `Power BI` · `Excel` · `IA` · `Automação` · `Lean Six Sigma` · `Scrum`
+
+---
+
+# 📈 Minha evolução
+
+```text
+                SOFTWARE
+                    │
+                    ▼
+          SISTEMAS CORPORATIVOS
+                    │
+                    ▼
+               SQL / DADOS
+                    │
+                    ▼
+          PYTHON / AUTOMAÇÃO
+                    │
+                    ▼
+            POWER BI / KPIs
+                    │
+                    ▼
+        INTELIGÊNCIA ARTIFICIAL
+                    │
+                    ▼
+          DATA + AI + SOFTWARE
+```
+
+Meu objetivo é construir soluções que conectem essas áreas para **resolver problemas reais de negócio**.
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abraao-lima/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/abraaolima-cloud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:abraaojose.100@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Automate. Analyze. Improve.
+
+**Obrigado por visitar meu perfil! 🚀**
+
+</div>
