@@ -35,17 +35,17 @@ Atualmente, meu foco de desenvolvimento está cada vez mais direcionado para **D
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   🗄️ DADOS             🐍 PYTHON            🤖 IA           │
-│   SQL Server            Pandas               LLMs            │
-│   SQL                   Automação            Ollama          │
-│   Excel                 APIs                 IA Local        │
-│   Power BI              Web Scraping         Document AI     │
+│   🗄️ DADOS             🐍 PYTHON            🤖 IA         //
+│   SQL Server            Pandas               LLMs           │
+│   SQL                   Automação            Ollama         │
+│   Excel                 APIs                 IA Local       │
+│   Power BI              Web Scraping         Document AI    │
 │                                                             │
-│   💻 SOFTWARE           ⚙️ AUTOMAÇÃO         🚀 PROJETOS     │
-│   Sistemas              Playwright           Scrum           │
-│   REST APIs              Power Platform       Kanban          │
-│   Streamlit             Integrações          Jira            │
-│   React                  Processos            KPIs            │
+│   💻 SOFTWARE           ⚙️ AUTOMAÇÃO        🚀 PROJETOS   //
+│   Sistemas              Playwright           Scrum          │
+│   REST APIs              Power Platform       Kanban        │
+│   Streamlit             Integrações          Jira           │
+│   React                  Processos            KPIs          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
