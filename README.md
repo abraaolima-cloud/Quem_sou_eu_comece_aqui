@@ -146,7 +146,6 @@ Uma aplicação que utiliza **IA local para analisar documentos comerciais em PD
 | 🤖 **Analisador Inteligente de Propostas** | Python · Ollama · Streamlit · PDF            | Análise automatizada de propostas         |
 | 👁️ **Detector de Fadiga**                 | Python · OpenCV · MediaPipe · Pygame         | Detecção de olhos fechados e alerta       |
 | 📄 **Conversor de Documentos**             | Python · PySide6 · PyMuPDF · pdf2docx        | Conversão e processamento de documentos   |
-| 🌐 **Web Scraping**                        | Python · Playwright · BeautifulSoup · Pandas | Coleta e tratamento automatizado de dados |
 | 🔗 **Integrações**                         | Python · SQL · REST API                      | Comunicação entre sistemas                |
 | 📊 **Data Projects**                       | Python · SQL · Power BI                      | Análise e visualização de dados           |
 
